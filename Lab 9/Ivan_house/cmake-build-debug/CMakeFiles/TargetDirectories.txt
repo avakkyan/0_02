@@ -1,0 +1,3 @@
+C:/Users/5054671/labs/algo/lab_9/Ivan_house/cmake-build-debug/CMakeFiles/Ivan_house.dir
+C:/Users/5054671/labs/algo/lab_9/Ivan_house/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/5054671/labs/algo/lab_9/Ivan_house/cmake-build-debug/CMakeFiles/rebuild_cache.dir
