@@ -1,3 +1,0 @@
-C:/Users/5054671/labs/algo/lab_9/andora/cmake-build-debug/CMakeFiles/andora.dir
-C:/Users/5054671/labs/algo/lab_9/andora/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/5054671/labs/algo/lab_9/andora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
